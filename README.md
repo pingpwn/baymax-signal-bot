@@ -13,6 +13,8 @@ I wanted to learn how to make a bot on signal, I also like the movie and the fri
 + Inside bot.py, change the number placeholders to your number and the bot's number. 
 + Run bot.py. Test it out by adding the bot on Signal and sending a prompt.
 
+![Screenshot](screenshot.jpeg "Screenshot")
+
 ### To-do
 + Implement prompt history
 + Add the ability to chat with multiple numbers
