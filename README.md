@@ -1,7 +1,8 @@
 # baymax-signal-bot
+![baymax](baymax.png "Baymax")
 ### What is this?
 
-This very simple python script connects an online or local LLM (using the OpenAI-style API) with [signal-cli](https://github.com/AsamK/signal-cli) to host a Signal bot that imitates the character Baymax from Disney's [Big Hero 6](https://en.wikipedia.org/wiki/Big_Hero_6_(film)). 
+This very simple python script connects an online or local LLM (using the OpenAI-style API) with [signal-cli](https://github.com/AsamK/signal-cli) to host a Signal bot that imitates the character Baymax from Disney's [Big Hero 6](https://en.wikipedia.org/wiki/Big_Hero_6_(film)). ![alt text](Isolated.png "Title")
 
 ### Why?
 I wanted to learn how to make a bot on signal, I also like the movie and the friendly vibes the character gives to AI. That's basically it.
