@@ -1,4 +1,4 @@
-# baymax-signal-bot
+# Baymax Signal Bot
 ![baymax](baymax.png "Baymax")
 ### What is this?
 
