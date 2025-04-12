@@ -10,7 +10,8 @@ I wanted to learn how to make a bot on signal, I also like the movie and the fri
 ### Set it up
 + First you need to set up [signal-cli](https://github.com/AsamK/signal-cli), you will need an extra phone number for this.
 + Set up your LLM. You can use I am using The Bloke's [CapyBaraHermes 2.5 Mistral 7B - GPTQ](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ) which I host locally using [Text Generation WebUI ](https://github.com/oobabooga/text-generation-webui). One cool idea would be to use LLMs specifically fine-tuned for [mental health](https://huggingface.co/klyang/MentaLLaMA-chat-7B).
-+ Inside bot.py, change the number placeholders to your number and the bot's number. 
++ Inside bot.py, change the number placeholders to your number and the bot's number.
++ Change the url variable to your LLM's endpoint. 
 + Run bot.py. Test it out by adding the bot on Signal and sending a prompt.
 
 ![Screenshot](screenshot.jpeg "Screenshot")
